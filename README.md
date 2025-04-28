@@ -1,3 +1,5 @@
+[![MseeP Badge](https://mseep.net/pr/g0t4-mcp-server-macos-defaults-badge.jpg)](https://mseep.ai/app/g0t4-mcp-server-macos-defaults)
+
 # mcp-server-macos-defaults MCP server
 
 MCP server for reading/writing macOS defaults (settings)
